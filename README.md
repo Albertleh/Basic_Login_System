@@ -1,2 +1,2 @@
 # Basic_Login_System
-A very common Login System with an easy encryption logic. Easy way to 
+A very common login system application with an easy encryption logic. Easy way to understand the mechanincs of such an encryption model.
